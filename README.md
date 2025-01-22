@@ -21,4 +21,5 @@ The system calculates angles relative to a vertical position
 - OLED display shows real-time tilt angles 
 if the person is balancing, show “ good position” on the OLED screen
 - Vibration motor activates when tilt exceeds 30 degrees 
-
+# system workflow
+![Alt Text](1234.jpg)

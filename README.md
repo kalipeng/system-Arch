@@ -17,7 +17,8 @@ Y-axis: Measures side-to-side tilt
 The system calculates angles relative to a vertical position 
 ![Alt Text](Group5.jpg)
 # display Design
- - OLED display shows real-time tilt angles 
+- The stepper gauge needle indicates real-time measurements like tilt - A clear warning message appears on the screen during excessive tilt: “ Tilt”  
+- OLED display shows real-time tilt angles 
 if the person is balancing, show “ good position” on the OLED screen
 - Vibration motor activates when tilt exceeds 30 degrees 
-- A clear warning message appears on the screen during excessive tilt “ Tilt” 
+

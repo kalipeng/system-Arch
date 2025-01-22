@@ -23,3 +23,5 @@ if the person is balancing, show “ good position” on the OLED screen
 - Vibration motor activates when tilt exceeds 30 degrees 
 # system workflow
 ![Alt Text](1234.jpg)
+![Alt Text](1001737528856_.pic.jpg)
+

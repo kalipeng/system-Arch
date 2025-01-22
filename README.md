@@ -15,6 +15,7 @@ X-axis: Measures forward/backward tilt
 Y-axis: Measures side-to-side tilt 
 
 The system calculates angles relative to a vertical position 
+![Alt Text](Group5.jpg)
 # display Design
  - OLED display shows real-time tilt angles 
 if the person is balancing, show “ good position” on the OLED screen

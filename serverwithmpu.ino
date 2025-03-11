@@ -1,5 +1,5 @@
 /**************************************************************
-   BLE Server Code for MPU6050 + OLED + LED + Stepper (Always Running)
+   BLE Server Code for MPU6050 + OLED + LED + Stepper 
 **************************************************************/
 
 #include <Arduino.h>
